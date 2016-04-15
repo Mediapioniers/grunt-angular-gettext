@@ -46,6 +46,6 @@
     "gettext"
   ],
   "dependencies": {
-    "angular-gettext-tools": "https://github.com/Mobilea/angular-gettext-tools.git"
+    "angular-gettext-tools": "https://github.com/Mediapioniers/angular-gettext-tools.git"
   }
 }

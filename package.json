@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/rubenv/grunt-angular-gettext.git"
+    "url": "https://github.com/rubenv/grunt-angular-gettext.git"
   },
   "bugs": {
     "url": "https://github.com/rubenv/grunt-angular-gettext/issues"
@@ -22,9 +22,6 @@
     }
   ],
   "main": "Gruntfile.js",
-  "engines": {
-    "node": ">= 0.8.0"
-  },
   "scripts": {
     "test": "grunt test"
   },
